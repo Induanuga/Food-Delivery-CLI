@@ -128,7 +128,6 @@ The Food Delivery System is designed to:
 **Post Condition:**  
 - A new customer account is created, allowing the customer to log in.
 
----
 
 ### Use Case 2: User Login (UC02)
 **Use Case Name:** User Login  
@@ -154,7 +153,6 @@ The Food Delivery System is designed to:
 **Post Condition:**  
 - The user is logged into the system with the appropriate access level.
 
----
 
 ### Use Case 3: Place Food Order (UC03)
 **Use Case Name:** Place Food Order  
@@ -189,7 +187,6 @@ The Food Delivery System is designed to:
 - For home delivery orders, a delivery agent is assigned.  
 - The order status is initially set to "preparing" and updated over time.
 
----
 
 ### Use Case 4: View Order Status and History (UC04)
 **Use Case Name:** View Order Status and History  
@@ -222,7 +219,6 @@ The Food Delivery System is designed to:
 **Post Condition:**  
 - The customer obtains up-to-date information on their order history and current order status.
 
----
 
 ### Use Case 5: Monitor All Orders (Manager) (UC05)
 **Use Case Name:** Monitor All Orders  
@@ -248,7 +244,6 @@ The Food Delivery System is designed to:
 **Post Condition:**  
 - The manager has real-time visibility into all orders in the system.
 
----
 
 ### Use Case 6: Monitor Delivery Agents (Manager) (UC06)
 **Use Case Name:** Monitor Delivery Agents  
@@ -268,7 +263,6 @@ The Food Delivery System is designed to:
 **Post Condition:**  
 - The manager receives up-to-date information on the availability and status of all delivery agents.
 
----
 
 ### Use Case 7: Order Management (System) (UC07)
 **Use Case Name:** Order Management  
