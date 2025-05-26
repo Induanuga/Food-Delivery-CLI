@@ -99,7 +99,7 @@ The Food Delivery System is designed to:
 
 ---
 
-## 5.Detailed Use Case Descriptions
+## 5. Detailed Use Case Descriptions
 
 ### Use Case 1: Customer Registration (UC01)
 **Use Case Name:** Customer Registration  
