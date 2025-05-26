@@ -97,6 +97,8 @@ The Food Delivery System is designed to:
 ## 4. Use Case Diagram
 ![alt text](/src/use-case-diagram.png)
 
+---
+
 ## 5.Detailed Use Case Descriptions
 
 ### Use Case 1: Customer Registration (UC01)
@@ -298,22 +300,21 @@ The Food Delivery System is designed to:
 - Resources (delivery agents) are freed for new orders.
 
 ### Use Case 8: View Menu (UC08)
-
-### **Use Case Name:** View Menu  
+**Use Case Name:** View Menu  
 **Overview:** Customers and managers can view the list of available food items along with their prices.  
 
-### **Actors:**  
+**Actors:**  
 - **Primary:** Customer, Manager  
 
-### **Pre-condition:**  
+**Pre-condition:**  
 - The user must be logged in.  
 
-### **Main Flow:**  
+**Main Flow:**  
 1. The user selects the **"View Menu"** option from the main menu.  
 2. The system displays the food items in a structured format with their prices.  
 
 
-### **Post Condition:**  
+**Post Condition:**  
 - The user has successfully viewed the list of available food items.  
 
 
@@ -333,6 +334,8 @@ The Food Delivery System is designed to:
   The system comes with hardcoded default users:  
   - Three delivery agents are preloaded into the system.  
   - One manager account is hardcoded into the system.  
+
+---
 
 ## How to run:
 - For running the app:
